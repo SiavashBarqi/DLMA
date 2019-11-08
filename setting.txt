@@ -1,0 +1,3 @@
+3 agents
+idle = observation 0
+collision reward = 0
